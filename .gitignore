@@ -1,6 +1,7 @@
-*.txt
 *.xlsx
 *.ino
 *.pyc
 *.csv
+*.png
+*.jpg
 .idea/
